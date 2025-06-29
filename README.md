@@ -52,3 +52,53 @@ Wireframes may include placeholder buttons, dropdowns, sliders, or search bars. 
 
 Each of these elements plays a vital role in creating wireframes that communicate both structure and intent — making it easier to test ideas, gather feedback, and move confidently into visual design and development.
 
+## 🧱 Types of Wireframes
+
+Wireframes can be categorized based on their level of detail and fidelity. The two main types are:
+
+### 🔹 Low-Fidelity Wireframes
+
+**Definition:**  
+Low-fidelity wireframes are simple, hand-drawn or grayscale representations of a design layout. They focus on structure and functionality without getting into visual details like colors, fonts, or images.
+
+**When to Use:**  
+- Early stages of the design process  
+- Brainstorming ideas and layout  
+- Quick feedback and iteration  
+
+**Key Characteristics:**  
+- Basic shapes and placeholders  
+- Minimal text  
+- No color or styling  
+
+**Example Use Case:**  
+Sketching ideas for an app’s home screen layout before diving into detailed design.
+
+---
+
+### 🔸 High-Fidelity Wireframes
+
+**Definition:**  
+High-fidelity wireframes are more detailed and closely resemble the final product. They often include precise spacing, real content, font choices, and sometimes basic interactivity.
+
+**When to Use:**  
+- Later stages of design  
+- Presenting to stakeholders  
+- Preparing for prototyping or developer handoff  
+
+**Key Characteristics:**  
+- Detailed layout with accurate spacing  
+- Real or sample content  
+- UI elements (buttons, dropdowns, etc.) in final form  
+
+**Example Use Case:**  
+Creating a full design of a product page with real images, pricing info, and CTAs for client approval.
+
+---
+
+## 🧐 What Type of Wireframe is This?
+
+> **Type:** Low-Fidelity Wireframe  
+> **Reason:** The wireframe currently created is a basic structure using placeholder boxes and simple text labels. It is meant to illustrate layout and navigation flow without visual styling or interactive elements. Ideal for early-stage review and feedback.
+
+
