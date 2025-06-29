@@ -102,3 +102,39 @@ Creating a full design of a product page with real images, pricing info, and CTA
 > **Reason:** The wireframe currently created is a basic structure using placeholder boxes and simple text labels. It is meant to illustrate layout and navigation flow without visual styling or interactive elements. Ideal for early-stage review and feedback.
 
 
+## 🛠️ Wireframing Tools
+
+There are several tools available that help designers create wireframes efficiently. These tools vary in complexity, features, and collaboration capabilities. Below are some of the most commonly used wireframing tools:
+
+### ✏️ Popular Wireframing Tools
+
+- **Figma** – Cloud-based, collaborative design tool for wireframing, UI design, and prototyping.
+- **Adobe XD** – Vector-based design tool for wireframing, UI design, and prototyping with Adobe ecosystem integration.
+- **Balsamiq** – Low-fidelity wireframing tool with a hand-drawn feel, ideal for quick ideation.
+- **Sketch** – Mac-only design tool that offers powerful wireframing and UI design features.
+- **Axure RP** – Advanced tool for wireframing with complex interactions and dynamic content.
+
+---
+
+### ⭐ Why Use Figma?
+
+Figma is a powerful, browser-based design tool that allows for real-time collaboration between team members. It is widely used by professionals for wireframing, UI/UX design, and prototyping.
+
+#### 🔍 Key Features:
+- **Real-time Collaboration** – Multiple users can edit a design simultaneously, ideal for remote teams.
+- **Component System** – Reusable components make designs consistent and easy to manage.
+- **Version Control** – Automatically saves and tracks changes, similar to Git.
+- **Prototyping** – Create interactive flows without switching tools.
+- **Cross-Platform** – Works on any OS via browser, with desktop apps available.
+
+#### ✅ Benefits for Wireframing:
+- Quickly create both low-fidelity and high-fidelity wireframes.
+- Use built-in templates and UI kits for faster development.
+- Share wireframes instantly with team members and stakeholders.
+- Leave comments directly on designs for faster feedback.
+
+---
+
+Figma’s flexibility, collaboration features, and ease of use make it an ideal choice for wireframing in both individual and team-based projects.
+
+
