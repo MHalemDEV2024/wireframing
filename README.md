@@ -179,6 +179,48 @@ A low-fidelity wireframe shared with potential users can uncover navigation issu
 
 ---
 
+## 🧪 Wireframing in Practice
+
+### 📍 Real-World Scenario: E-Commerce Checkout Flow
+
+A design team working on an e-commerce platform used wireframing to prototype the user’s checkout process. Initially, the wireframe featured a **three-step checkout form**: 
+1. Shipping Information  
+2. Payment Method  
+3. Order Review  
+
+While the layout looked clean, usability testing on the wireframe revealed a key issue — **users were confused about which step they were on** and often skipped fields without realizing they were required.
+
+### 🔍 How the Issue Was Identified
+The team conducted quick feedback sessions with test users using the low-fidelity wireframe in Figma. Several users hesitated during form completion, clicked the “Next” button repeatedly, and got stuck when errors weren’t clearly shown.
+
+### ✅ Resolution
+Based on this feedback, the design team made the following wireframe adjustments:
+- Added a **step progress indicator** at the top of the checkout form.
+- Introduced **clear field validation messages** below each input.
+- Used bold section headers to clarify what each step covered.
+
+These improvements were implemented directly in the wireframe and reviewed again before moving to high-fidelity design and development.
+
+### 🎯 Impact on the Final Product
+When the product was launched:
+- Form completion rate increased by **28%**
+- Cart abandonment during checkout dropped by **15%**
+- Positive user feedback highlighted the **clarity of the process**
+
+---
+
+### 🧩 Conclusion: Why Wireframing Matters
+
+This case highlights how wireframing is more than a sketch—it’s a **strategic problem-solving tool**. By identifying friction points early, the team avoided costly design and development rework.
+
+Wireframing enabled:
+- Fast iterations based on real feedback  
+- Clear alignment between design and development teams  
+- A better user experience from the start  
+
+Ultimately, wireframing helps teams **design with intention**, ensuring the final product is both usable and user-centered.
+
+
 In summary, wireframing is not just a design activity — it’s a **collaborative, strategic step** that enhances clarity, reduces risks, and streamlines the software development lifecycle.
 
 
